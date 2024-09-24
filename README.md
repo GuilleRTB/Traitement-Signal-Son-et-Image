@@ -1,0 +1,3 @@
+# Travaux Pratiques en traitement du signal, aux signaux sonores et aux images
+
+Ce dossier contient les travaux pratiques réalisés dans le cadre du Master en Intelligence Artificielle : Fondements et Applications (IAFA), avec un accent particulier sur le traitement du son, du signal et de l'image. Ces projets visent à appliquer les concepts théoriques appris pendant le programme et à développer des compétences pratiques dans les domaines de l'IA, du traitement des signaux sonores et de l'analyse d'images.
